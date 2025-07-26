@@ -1,3 +1,5 @@
+Live On : [smartdatavis.streamlit.app](https://smartdatavis.streamlit.app/)
+
 <img width="1919" height="966" alt="Screenshot 2025-07-26 181731" src="https://github.com/user-attachments/assets/4d537e51-3694-4cb2-8261-4e9b23a94f5f" />
 
 # 📊 Smart Data Visualizer
